@@ -4,6 +4,7 @@ RhombixTechnologies_Tasks is a real digital marketing internship project I worke
 Medicolin – Science-Backed Skincare Content Pack
 Brand Name: Medicolin
 Tagline: Science-backed skincare for healthy, confident skin.
+
 📌 Project Overview
 This repository contains a curated set of marketing content and social media copy for Medicolin, a skincare brand focused on effective, ingredient-driven solutions. The content is designed to promote products, engage audiences, build brand awareness, and support educational outreach across platforms such as Instagram, Facebook, and LinkedIn.
 
